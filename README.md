@@ -6,11 +6,11 @@
 
 ## utilisation
 
-Ce notebook presente l'utilisation l'utilisation de certaines librairies parllèles python pour le calcul parallèle.
+Ce notebook presente l'utilisation l'utilisation de certaines librairies parllèles Python pour le calcul parallèle.
 Un exemple applicatif du traitement d'une grande grille est utilisé, suivi des tests et comparaisons des performances.
 
 Dans ce notebooke, l'utilisation de mpi4py nécessite  la configuration d'un cluster de calcul.
-Ceci est effectué par la librairie ipyparallel (interactive python parallel).
+Ceci est effectué par la librairie IPyparallel (interactive Python parallel).
 
 Pour la configuration du cluster ipy:
 ```
