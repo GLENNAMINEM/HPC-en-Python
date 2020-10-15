@@ -1,0 +1,6 @@
+numpy==1.16.2
+bigmpi4py==1.2.4
+ipyparallel==6.3.0
+dask==1.1.4
+mpi4py==3.0.3
+Cython==0.29.6
